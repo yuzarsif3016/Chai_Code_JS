@@ -28,3 +28,22 @@
 
 // chai() undefined
 
+
+// const addtwo = (num1,num2)=>{
+
+//     return num1 + num2;
+// }
+
+// curly is used then compulsory write return statment 
+
+// console.log(addtwo(5,10));
+
+
+// const addtwo = (num1,num2) => num1+num2;
+
+
+//to return the object use round brackets
+// const addtwo = () => ({userName:"Hitesh"})
+
+// console.log(addtwo());
+
