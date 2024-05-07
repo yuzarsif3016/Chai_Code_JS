@@ -88,6 +88,6 @@ function returnSecondval(getArr)
 {
     return getArr[1]
 }
-// console.log(returnSecondval(myArr));
+// console.log(returnSecondval(myArr)); // 400
 
-console.log(returnSecondval([100,200,300,400]));
+// console.log(returnSecondval([100,200,300,400])); // 200

@@ -22,7 +22,7 @@
 
 
 
-// for (let i = 0; i < 7; i++) {
+// for (let i = 0; i <= 7; i++) {
 //     const element = i;
 //     console.log(element);
 //     if(i == 5)

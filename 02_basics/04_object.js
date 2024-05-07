@@ -35,7 +35,7 @@ const obj1 = {1:"A",2:"B"}
 
 const obj2 = {3:"C",4:"D"}
 
-// const obj3 = Object.assign(obj1,obj2) //combines the objects together
+const obj3 = Object.assign(obj1,obj2) //combines the objects together
 
 // console.log(obj3);
 

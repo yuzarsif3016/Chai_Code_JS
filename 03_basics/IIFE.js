@@ -10,5 +10,8 @@
 
 ((name)=>{
     console.log(`Chai aur code ${name}`);
-})("Yusuf")
+})("Yusuf");
 
+((naam)=>{
+    console.log(`Yes ${naam}`);
+})("Huda")

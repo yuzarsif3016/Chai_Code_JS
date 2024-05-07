@@ -42,7 +42,7 @@ if(true)
 //     return num + 1
 // }
 
-// addtwo()//cannot access like thix
+// addtwo()//cannot access like this
 
 // const addtwo = function(num)
 // {

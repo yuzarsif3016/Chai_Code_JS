@@ -1,7 +1,10 @@
 const accountId = 12345;
 let name = "Yusuf"
 var city = "Kopargaon"
-accountEmail = "yusuf@gmail.com"
+{
+    accountEmail = "yusuf@gmail.com" // var by default
+
+}
 
 name = "hitesh"
 city="pune"

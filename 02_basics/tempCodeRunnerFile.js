@@ -1,6 +1,5 @@
+3,[4,5,6],7,[6,7,[4,5]]]
 
-const myn2 = myArr.splice(1,3)
+const realAnotherArray = anotherArray.flat(Infinity)
 
-console.log(myn2);
-
-console.log("C" , myArr);
+console.log(realAnotherArray);

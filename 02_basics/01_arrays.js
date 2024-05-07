@@ -16,7 +16,7 @@
 
 // console.log(typeof newArr); string
 
-// const myArr = [132, 54 , 55 , 65 , 66]
+const myArr = [132, 54 , 55 , 65 , 66]
 
 // const myn1 = myArr.slice(1,3)
 
@@ -24,11 +24,11 @@
 
 // console.log("B" , myArr);
 
-// const myn2 = myArr.splice(1,3) // manipulate original array
+const myn2 = myArr.splice(1,3) // manipulate original array
 
-// console.log(myn2);
+console.log(myn2);
 
-// console.log("C" , myArr);
+console.log("C" , myArr);
 
 
 

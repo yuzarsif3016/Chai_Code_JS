@@ -55,7 +55,7 @@
 const id = Symbol("123")
 const Aid = Symbol("123")
 
-// console.log(id === Aid);
+//  console.log(id === Aid); //false
 
 //BigInt
 

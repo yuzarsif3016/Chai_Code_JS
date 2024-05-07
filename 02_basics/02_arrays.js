@@ -21,11 +21,11 @@ const dc_Heros = ['superman','flash','batman']
 // console.log(allNewHeros);
 
 
-// const anotherArray = [1,2,3,[4,5,6],7,[6,7,[4,5]]]
+const anotherArray = [1,2,3,[4,5,6],7,[6,7,[4,5]]]
 
-// const realAnotherArray = anotherArray.flat(Infinity)
+const realAnotherArray = anotherArray.flat(Infinity)
 
-// console.log(realAnotherArray);
+console.log(realAnotherArray);
 
 // console.log(Array.isArray("Hitesh")); false
 

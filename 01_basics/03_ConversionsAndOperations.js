@@ -45,7 +45,7 @@
 
 // 1 ==> true , 0 ==> false
 
-// "yusuf" ==> , "" ==> false
+// "yusuf" ==> true , "" ==> false
 
 //**************Operations**************** 
 
