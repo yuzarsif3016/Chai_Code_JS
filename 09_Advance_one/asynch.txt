@@ -1,0 +1,13 @@
+js is by def synchronous , only one thread
+
+and line by line exceution of code(Exceution context)
+
+Blocking code vs           non blocking code
+  ||                            ||
+block the flow of program     Does not block Code
+    ||                            ||
+    read file synch            read file asynch
+
+
+
+    
